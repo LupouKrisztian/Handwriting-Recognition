@@ -1,0 +1,3 @@
+unzip the files: - opencv_world451d from \x64\Debug
+		 - opencv_world451d from OpenCV\dll\Debug
+		 - FeatureMatrix from dataset

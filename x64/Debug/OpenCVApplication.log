@@ -1,0 +1,11 @@
+﻿  OpenCVApplication.cpp
+D:\SRF\Proiect\OpenCVApplication-VS2019_OCV451_basic\OpenCVApplication.cpp(425,32): warning C4267: '+=': conversion from 'size_t' to 'int', possible loss of data
+D:\SRF\Proiect\OpenCVApplication-VS2019_OCV451_basic\OpenCVApplication.cpp(608,10): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'unsigned __int64'
+D:\SRF\Proiect\OpenCVApplication-VS2019_OCV451_basic\OpenCVApplication.cpp(608,10): message : consider using '%zd' in the format string
+D:\SRF\Proiect\OpenCVApplication-VS2019_OCV451_basic\OpenCVApplication.cpp(717,37): warning C4267: '+=': conversion from 'size_t' to 'int', possible loss of data
+D:\SRF\Proiect\OpenCVApplication-VS2019_OCV451_basic\OpenCVApplication.cpp(139): warning C4715: 'HorizontalSegmentation': not all control paths return a value
+  OpenCVApplication.vcxproj -> D:\SRF\Proiect\OpenCVApplication-VS2019_OCV451_basic\x64\Debug\OpenCVApplication.exe
+  OpenCV\dll\Debug\opencv_videoio_ffmpeg451_64d.dll
+  OpenCV\dll\Debug\opencv_videoio_msmf451_64d.dll
+  OpenCV\dll\Debug\opencv_world451d.dll
+          3 file(s) copied.
